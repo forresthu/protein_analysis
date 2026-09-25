@@ -4,6 +4,12 @@ An end-to-end pipeline that pulls real protein structures from an open data
 source, renders them in an interactive atom-level 3D viewer, and predicts
 physicochemical properties for each one.
 
+## Screenshots
+
+![App overview: protein list, 3D stick-model viewer, sequence panel, and predicted properties](docs/screenshots/app-overview.png)
+
+![Atom-level stick rendering of hemoglobin (4HHB)](docs/screenshots/hemoglobin-3d.png)
+
 ## Proteins analyzed
 
 10 well-known, structurally diverse proteins fetched from the
