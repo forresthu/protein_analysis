@@ -1,0 +1,82 @@
+[
+  {
+    "pdb_id": "4HHB",
+    "name": "Hemoglobin",
+    "description": "Oxygen transport protein in red blood cells.",
+    "title": "THE CRYSTAL STRUCTURE OF HUMAN DEOXYHAEMOGLOBIN AT 1.74 ANGSTROMS RESOLUTION",
+    "resolution_angstrom": 1.74,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "1MBN",
+    "name": "Myoglobin",
+    "description": "Oxygen storage protein in muscle tissue.",
+    "title": "The stereochemistry of the protein myoglobin",
+    "resolution_angstrom": 2.0,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "1LYZ",
+    "name": "Lysozyme",
+    "description": "Antibacterial enzyme that breaks down bacterial cell walls.",
+    "title": "Real-space refinement of the structure of hen egg-white lysozyme",
+    "resolution_angstrom": 2.0,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "4INS",
+    "name": "Insulin",
+    "description": "Hormone that regulates blood glucose levels.",
+    "title": "THE STRUCTURE OF 2ZN PIG INSULIN CRYSTALS AT 1.5 ANGSTROMS RESOLUTION",
+    "resolution_angstrom": 1.5,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "1GFL",
+    "name": "Green Fluorescent Protein",
+    "description": "Fluorescent protein from jellyfish, widely used as a marker.",
+    "title": "STRUCTURE OF GREEN FLUORESCENT PROTEIN",
+    "resolution_angstrom": 1.9,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "1UBQ",
+    "name": "Ubiquitin",
+    "description": "Small regulatory protein marking other proteins for degradation.",
+    "title": "STRUCTURE OF UBIQUITIN REFINED AT 1.8 ANGSTROMS RESOLUTION",
+    "resolution_angstrom": 1.8,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "1HRC",
+    "name": "Cytochrome c",
+    "description": "Electron carrier protein in the mitochondrial respiratory chain.",
+    "title": "HIGH-RESOLUTION THREE-DIMENSIONAL STRUCTURE OF HORSE HEART CYTOCHROME C",
+    "resolution_angstrom": 1.9,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "3TGI",
+    "name": "Trypsin",
+    "description": "Digestive enzyme that cleaves peptide bonds.",
+    "title": "WILD-TYPE RAT ANIONIC TRYPSIN COMPLEXED WITH BOVINE PANCREATIC TRYPSIN INHIBITOR (BPTI)",
+    "resolution_angstrom": 1.8,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "1CGD",
+    "name": "Collagen (triple helix)",
+    "description": "Structural protein providing strength to connective tissue.",
+    "title": "HYDRATION STRUCTURE OF A COLLAGEN PEPTIDE",
+    "resolution_angstrom": 1.85,
+    "experimental_method": "X-RAY DIFFRACTION"
+  },
+  {
+    "pdb_id": "6LU7",
+    "name": "SARS-CoV-2 Main Protease",
+    "description": "Viral enzyme essential for coronavirus replication; a major drug target.",
+    "title": "The crystal structure of COVID-19 main protease in complex with an inhibitor N3",
+    "resolution_angstrom": 2.16,
+    "experimental_method": "X-RAY DIFFRACTION"
+  }
+]

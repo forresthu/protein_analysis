@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Protein Analysis Explorer</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+<script src="https://3Dmol.org/build/3Dmol-min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Protein Analysis Explorer</h1>
+    <div class="header-subrow">
+      <p>10 proteins &middot; structures from RCSB PDB &middot; properties predicted with Biopython ProtParam</p>
+      <span id="author">by Forrest Hu</span>
+    </div>
+  </header>
+
+  <main>
+    <aside id="protein-list-panel">
+      <h2>Proteins</h2>
+      <div id="protein-search">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search RCSB PDB (e.g. lysozyme, 6LU7)"
+          autocomplete="off"
+        />
+        <div id="search-status"></div>
+        <ul id="search-results"></ul>
+      </div>
+      <ul id="protein-list"></ul>
+    </aside>
+
+    <section id="viewer-panel">
+      <div id="viewer-toolbar">
+        <label for="style-select">Style:</label>
+        <select id="style-select">
+          <option value="stick">Stick (atom-level)</option>
+          <option value="sphere">Sphere (space-filling)</option>
+          <option value="cartoon">Cartoon</option>
+          <option value="line">Line</option>
+        </select>
+        <button type="button" id="rotate-btn">&#8635; Rotate 360&deg;</button>
+        <span class="hint">Drag to rotate &middot; scroll / pinch to zoom &middot; right-drag to pan</span>
+      </div>
+      <div id="viewer-wrap">
+        <div id="viewer"></div>
+        <div id="viewer-pdbid-badge"></div>
+      </div>
+      <div id="sequence-panel">
+        <h3>Sequence <span class="hint">(click a residue to highlight it in 3D)</span></h3>
+        <div id="sequence-strip"></div>
+      </div>
+      <div id="residue-tooltip" class="residue-tooltip" hidden></div>
+    </section>
+
+    <section id="properties-panel">
+      <h2 id="properties-title">Select a protein</h2>
+      <p id="properties-description"></p>
+      <dl id="properties-list"></dl>
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='js/viewer.js') }}"></script>
+</body>
+</html>

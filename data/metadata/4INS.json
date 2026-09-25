@@ -1,0 +1,892 @@
+{
+  "audit_author": [
+    {
+      "name": "Dodson, G.G.",
+      "pdbx_ordinal": 1
+    },
+    {
+      "name": "Dodson, E.J.",
+      "pdbx_ordinal": 2
+    },
+    {
+      "name": "Hodgkin, D.C.",
+      "pdbx_ordinal": 3
+    },
+    {
+      "name": "Isaacs, N.W.",
+      "pdbx_ordinal": 4
+    },
+    {
+      "name": "Vijayan, M.",
+      "pdbx_ordinal": 5
+    }
+  ],
+  "cell": {
+    "Z_PDB": 18,
+    "angle_alpha": 90.0,
+    "angle_beta": 90.0,
+    "angle_gamma": 120.0,
+    "length_a": 82.5,
+    "length_b": 82.5,
+    "length_c": 34.0
+  },
+  "citation": [
+    {
+      "country": "UK",
+      "id": "primary",
+      "journal_abbrev": "Philos.Trans.R.Soc.London,Ser.B",
+      "journal_id_ASTM": "PTRBAE",
+      "journal_id_CSD": "0441",
+      "journal_id_ISSN": "0080-4622",
+      "journal_volume": "319",
+      "page_first": "369",
+      "page_last": "456",
+      "pdbx_database_id_PubMed": 2905485,
+      "rcsb_authors": [
+        "Baker, E.N.",
+        "Blundell, T.L.",
+        "Cutfield, J.F.",
+        "Cutfield, S.M.",
+        "Dodson, E.J.",
+        "Dodson, G.G.",
+        "Hodgkin, D.M.",
+        "Hubbard, R.E.",
+        "Isaacs, N.W.",
+        "Reynolds, C.D.",
+        "Sakabe, K.",
+        "Sakabe, N.",
+        "Vijayan, N.M."
+      ],
+      "rcsb_is_primary": "Y",
+      "rcsb_journal_abbrev": "Philos Trans R Soc London,ser B",
+      "title": "The structure of 2Zn pig insulin crystals at 1.5 A resolution.",
+      "year": 1988
+    },
+    {
+      "country": "UK",
+      "id": "1",
+      "journal_abbrev": "Proc.R.Soc.London,Ser.B",
+      "journal_id_ASTM": "PRLBA4",
+      "journal_id_CSD": "0338",
+      "journal_id_ISSN": "0080-4649",
+      "journal_volume": "219",
+      "page_first": "21",
+      "rcsb_authors": [
+        "Bordas, J.",
+        "Dodson, G.G.",
+        "Grewe, H.",
+        "Koch, M.H.J.",
+        "Krebs, B.",
+        "Randall, J."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Proc R Soc London,ser B",
+      "title": "A Comparative Assessment of the Zinc-Protein Coordination in 2Zn-Insulin as Determined by X-Ray Absorption Fine Structure (Exafs) and X-Ray Crystallography",
+      "year": 1983
+    },
+    {
+      "country": "CA",
+      "id": "2",
+      "journal_abbrev": "Can.J.Biochem.",
+      "journal_id_ASTM": "CJBIAE",
+      "journal_id_CSD": "0415",
+      "journal_id_ISSN": "0008-4018",
+      "journal_volume": "57",
+      "page_first": "469",
+      "rcsb_authors": [
+        "Dodson, E.J.",
+        "Dodson, G.G.",
+        "Hodgkin, D.C.",
+        "Reynolds, C.D."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Can J Biochem",
+      "title": "Structural Relationships in the Two-Zinc Insulin Hexamer",
+      "year": 1979
+    },
+    {
+      "country": "DK",
+      "id": "3",
+      "journal_abbrev": "Acta Crystallogr.,Sect.A",
+      "journal_id_ASTM": "ACACEQ",
+      "journal_id_CSD": "0621",
+      "journal_id_ISSN": "0108-7673",
+      "journal_volume": "34",
+      "page_first": "782",
+      "rcsb_authors": [
+        "Isaacs, N.W.",
+        "Agarwal, R.C."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Acta Crystallogr A",
+      "title": "Experience with Fast Fourier Least Squares in the Refinement of the Crystal Structure of Rhombohedral 2-Zinc Insulin at 1.5 Angstroms Resolution",
+      "year": 1978
+    },
+    {
+      "country": "UK",
+      "id": "4",
+      "journal_abbrev": "J.Mol.Biol.",
+      "journal_id_ASTM": "JMOBAK",
+      "journal_id_CSD": "0070",
+      "journal_id_ISSN": "0022-2836",
+      "journal_volume": "126",
+      "page_first": "871",
+      "rcsb_authors": [
+        "Bentley, G.",
+        "Dodson, G.",
+        "Lewitova, A."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "J Mol Biol",
+      "title": "Rhombohedral Insulin Crystal Transformation",
+      "year": 1978
+    },
+    {
+      "country": "DK",
+      "id": "5",
+      "journal_abbrev": "Acta Crystallogr.,Sect.A",
+      "journal_id_ASTM": "ACACEQ",
+      "journal_id_CSD": "0621",
+      "journal_id_ISSN": "0108-7673",
+      "journal_volume": "32",
+      "page_first": "311",
+      "rcsb_authors": [
+        "Dodson, E.J.",
+        "Isaacs, N.W.",
+        "Rollett, J.S."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Acta Crystallogr A",
+      "title": "A Method for Fitting Satisfactory Models to Sets of Atomic Positions in Protein Structure Refinements",
+      "year": 1976
+    },
+    {
+      "country": "UK",
+      "id": "6",
+      "journal_abbrev": "J.Endocrinol.",
+      "journal_id_ASTM": "JOENAK",
+      "journal_id_CSD": "0907",
+      "journal_id_ISSN": "0022-0795",
+      "journal_volume": "63",
+      "page_first": "1",
+      "rcsb_authors": [
+        "Hodgkin, D.C."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "J Endocrinol",
+      "title": "Varieties of Insulin",
+      "year": 1974
+    },
+    {
+      "country": "DK",
+      "id": "7",
+      "journal_abbrev": "Dan.Tidsskr.Farm.",
+      "journal_id_ASTM": "DTFAAN",
+      "journal_id_CSD": "0168",
+      "journal_id_ISSN": "0011-6513",
+      "journal_volume": "46",
+      "page_first": "1",
+      "rcsb_authors": [
+        "Hodgkin, D.C."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Dan Tidsskr Farm",
+      "title": "The Structure of Insulin",
+      "year": 1972
+    },
+    {
+      "country": "US",
+      "id": "8",
+      "journal_abbrev": "Adv.Protein Chem.",
+      "journal_id_ASTM": "APCHA2",
+      "journal_id_CSD": "0433",
+      "journal_id_ISSN": "0065-3233",
+      "journal_volume": "26",
+      "page_first": "279",
+      "rcsb_authors": [
+        "Blundell, T.",
+        "Dodson, G.",
+        "Hodgkin, D.",
+        "Mercola, D."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Adv Protein Chem",
+      "title": "Insulin. The Structure in the Crystal and its Reflection in Chemistry and Biology",
+      "year": 1972
+    },
+    {
+      "country": "US",
+      "id": "9",
+      "journal_abbrev": "Cold Spring Harbor Symp.Quant.Biol.",
+      "journal_id_ASTM": "CSHSAZ",
+      "journal_id_CSD": "0421",
+      "journal_id_ISSN": "0091-7451",
+      "journal_volume": "36",
+      "page_first": "233",
+      "rcsb_authors": [
+        "Blundell, T.L.",
+        "Cutfield, J.F.",
+        "Dodson, E.J.",
+        "Dodson, G.G.",
+        "Hodgkin, D.C.",
+        "Mercola, D.A."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Cold Spring Harb Symp Quant Biol",
+      "title": "The Crystal Structure of Rhombohedral 2 Zinc Insulin",
+      "year": 1972
+    },
+    {
+      "country": "UK",
+      "id": "10",
+      "journal_abbrev": "Nature",
+      "journal_id_ASTM": "NATUAS",
+      "journal_id_CSD": "0006",
+      "journal_id_ISSN": "0028-0836",
+      "journal_volume": "231",
+      "page_first": "506",
+      "rcsb_authors": [
+        "Blundell, T.L.",
+        "Cutfield, J.F.",
+        "Cutfield, S.M.",
+        "Dodson, E.J.",
+        "Dodson, G.G.",
+        "Hodgkin, D.C.",
+        "Mercola, D.A.",
+        "Vijayan, M."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Nature",
+      "title": "Atomic Positions in Rhombohedral 2-Zinc Insulin Crystals",
+      "year": 1971
+    },
+    {
+      "country": "US",
+      "id": "11",
+      "journal_abbrev": "Recent Prog.Horm.Res.",
+      "journal_id_ASTM": "RPHRA6",
+      "journal_id_CSD": "0908",
+      "journal_id_ISSN": "0079-9963",
+      "journal_volume": "27",
+      "page_first": "1",
+      "rcsb_authors": [
+        "Blundell, T.L.",
+        "Dodson, G.G.",
+        "Dodson, E.",
+        "Hodgkin, D.C.",
+        "Vijayan, M."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Recent Prog Horm Res",
+      "title": "X-Ray Analysis and the Structure of Insulin",
+      "year": 1971
+    },
+    {
+      "country": "UK",
+      "id": "12",
+      "journal_abbrev": "J.Mol.Biol.",
+      "journal_id_ASTM": "JMOBAK",
+      "journal_id_CSD": "0070",
+      "journal_id_ISSN": "0022-2836",
+      "journal_volume": "54",
+      "page_first": "605",
+      "rcsb_authors": [
+        "Baker, E.N.",
+        "Dodson, G."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "J Mol Biol",
+      "title": "X-Ray Diffraction Data on Some Crystalline Varieties of Insulin",
+      "year": 1970
+    },
+    {
+      "country": "UK",
+      "id": "13",
+      "journal_abbrev": "Nature",
+      "journal_id_ASTM": "NATUAS",
+      "journal_id_CSD": "0006",
+      "journal_id_ISSN": "0028-0836",
+      "journal_volume": "224",
+      "page_first": "491",
+      "rcsb_authors": [
+        "Adams, M.J.",
+        "Blundell, T.L.",
+        "Dodson, E.J.",
+        "Dodson, G.G.",
+        "Vijayan, M.",
+        "Baker, E.N.",
+        "Harding, M.M.",
+        "Hodgkin, D.C.",
+        "Rimmer, B.",
+        "Sheat, S."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Nature",
+      "title": "Structure of Rhombohedral 2 Zinc Insulin Crystals",
+      "year": 1969
+    },
+    {
+      "book_publisher": "National Biomedical Research Foundation, Silver Spring,Md.",
+      "id": "14",
+      "journal_abbrev": "Atlas of Protein Sequence and Structure (Data Section)",
+      "journal_id_CSD": "0435",
+      "journal_id_ISSN": "0-912466-02-2",
+      "journal_volume": "5",
+      "page_first": "187",
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Atlas Of Protein Sequence And Structure (data Section)",
+      "year": 1972
+    }
+  ],
+  "database_2": [
+    {
+      "database_code": "4INS",
+      "database_id": "PDB",
+      "pdbx_DOI": "10.2210/pdb4ins/pdb",
+      "pdbx_database_accession": "pdb_00004ins"
+    },
+    {
+      "database_code": "D_1000179350",
+      "database_id": "WWPDB"
+    }
+  ],
+  "diffrn": [
+    {
+      "crystal_id": "1",
+      "id": "1"
+    }
+  ],
+  "diffrn_radiation": [
+    {
+      "diffrn_id": "1",
+      "pdbx_scattering_type": "x-ray",
+      "wavelength_id": "1"
+    }
+  ],
+  "entry": {
+    "id": "4INS"
+  },
+  "exptl": [
+    {
+      "method": "X-RAY DIFFRACTION"
+    }
+  ],
+  "exptl_crystal": [
+    {
+      "density_Matthews": 1.92,
+      "density_percent_sol": 36.05,
+      "id": "1"
+    }
+  ],
+  "pdbx_audit_revision_category": [
+    {
+      "category": "pdbx_database_status",
+      "data_content_type": "Structure model",
+      "ordinal": 1,
+      "revision_ordinal": 5
+    },
+    {
+      "category": "struct_conf",
+      "data_content_type": "Structure model",
+      "ordinal": 2,
+      "revision_ordinal": 5
+    },
+    {
+      "category": "struct_conf_type",
+      "data_content_type": "Structure model",
+      "ordinal": 3,
+      "revision_ordinal": 5
+    },
+    {
+      "category": "chem_comp_atom",
+      "data_content_type": "Structure model",
+      "ordinal": 4,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "chem_comp_bond",
+      "data_content_type": "Structure model",
+      "ordinal": 5,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "database_2",
+      "data_content_type": "Structure model",
+      "ordinal": 6,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "pdbx_entry_details",
+      "data_content_type": "Structure model",
+      "ordinal": 7,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "pdbx_modification_feature",
+      "data_content_type": "Structure model",
+      "ordinal": 8,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "struct_conn",
+      "data_content_type": "Structure model",
+      "ordinal": 9,
+      "revision_ordinal": 6
+    }
+  ],
+  "pdbx_audit_revision_details": [
+    {
+      "data_content_type": "Structure model",
+      "ordinal": 1,
+      "provider": "repository",
+      "revision_ordinal": 1,
+      "type": "Initial release"
+    }
+  ],
+  "pdbx_audit_revision_group": [
+    {
+      "data_content_type": "Structure model",
+      "group": "Version format compliance",
+      "ordinal": 1,
+      "revision_ordinal": 2
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Version format compliance",
+      "ordinal": 2,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Database references",
+      "ordinal": 3,
+      "revision_ordinal": 4
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Derived calculations",
+      "ordinal": 4,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Other",
+      "ordinal": 5,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Data collection",
+      "ordinal": 6,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Database references",
+      "ordinal": 7,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Derived calculations",
+      "ordinal": 8,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Structure summary",
+      "ordinal": 9,
+      "revision_ordinal": 6
+    }
+  ],
+  "pdbx_audit_revision_history": [
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 0,
+      "ordinal": 1,
+      "revision_date": "1990-04-15T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 1,
+      "ordinal": 2,
+      "revision_date": "2008-03-03T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 2,
+      "ordinal": 3,
+      "revision_date": "2011-07-13T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 3,
+      "ordinal": 4,
+      "revision_date": "2012-02-29T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 4,
+      "ordinal": 5,
+      "revision_date": "2017-11-29T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 5,
+      "ordinal": 6,
+      "revision_date": "2024-10-23T00:00:00.000+00:00"
+    }
+  ],
+  "pdbx_audit_revision_item": [
+    {
+      "data_content_type": "Structure model",
+      "item": "_pdbx_database_status.process_site",
+      "ordinal": 1,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_database_2.pdbx_DOI",
+      "ordinal": 2,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_database_2.pdbx_database_accession",
+      "ordinal": 3,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.pdbx_dist_value",
+      "ordinal": 4,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr1_auth_asym_id",
+      "ordinal": 5,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr1_auth_comp_id",
+      "ordinal": 6,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr1_auth_seq_id",
+      "ordinal": 7,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr1_label_asym_id",
+      "ordinal": 8,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr1_label_atom_id",
+      "ordinal": 9,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr1_label_comp_id",
+      "ordinal": 10,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr1_label_seq_id",
+      "ordinal": 11,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr1_symmetry",
+      "ordinal": 12,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr2_auth_asym_id",
+      "ordinal": 13,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr2_auth_comp_id",
+      "ordinal": 14,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr2_auth_seq_id",
+      "ordinal": 15,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr2_label_asym_id",
+      "ordinal": 16,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr2_label_atom_id",
+      "ordinal": 17,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr2_label_comp_id",
+      "ordinal": 18,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr2_label_seq_id",
+      "ordinal": 19,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_conn.ptnr2_symmetry",
+      "ordinal": 20,
+      "revision_ordinal": 6
+    }
+  ],
+  "pdbx_database_PDB_obs_spr": [
+    {
+      "date": "1990-04-15T00:00:00.000+00:00",
+      "id": "SPRSDE",
+      "pdb_id": "4INS",
+      "replace_pdb_id": "1INS"
+    }
+  ],
+  "pdbx_database_status": {
+    "pdb_format_compatible": "Y",
+    "process_site": "BNL",
+    "recvd_initial_deposition_date": "1989-07-10T00:00:00.000+00:00",
+    "status_code": "REL"
+  },
+  "pdbx_vrpt_summary": {
+    "attempted_validation_steps": "molprobity,validation-pack,mogul,validation_schema,percentiles,writexml,writecif,writepdf",
+    "ligands_for_buster_report": "N",
+    "report_creation_date": "2026-03-17T15:56:00.000+00:00"
+  },
+  "pdbx_vrpt_summary_geometry": [
+    {
+      "angles_RMSZ": 2.4,
+      "bonds_RMSZ": 1.6,
+      "clashscore": 8.55,
+      "num_H_reduce": 805,
+      "num_angles_RMSZ": 1188,
+      "num_bonds_RMSZ": 885,
+      "percent_ramachandran_outliers": 0.0,
+      "percent_rotamer_outliers": 3.33
+    }
+  ],
+  "rcsb_accession_info": {
+    "deposit_date": "1989-07-10T00:00:00.000+00:00",
+    "has_released_experimental_data": "N",
+    "initial_release_date": "1990-04-15T00:00:00.000+00:00",
+    "major_revision": 1,
+    "minor_revision": 5,
+    "revision_date": "2024-10-23T00:00:00.000+00:00",
+    "status_code": "REL"
+  },
+  "rcsb_entry_container_identifiers": {
+    "assembly_ids": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "entity_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "entry_id": "4INS",
+    "model_ids": [
+      1
+    ],
+    "non_polymer_entity_ids": [
+      "3"
+    ],
+    "polymer_entity_ids": [
+      "1",
+      "2"
+    ],
+    "pubmed_id": 2905485,
+    "rcsb_id": "4INS"
+  },
+  "rcsb_entry_info": {
+    "assembly_count": 7,
+    "branched_entity_count": 0,
+    "cis_peptide_count": 0,
+    "deposited_atom_count": 1182,
+    "deposited_deuterated_water_count": 0,
+    "deposited_hydrogen_atom_count": 0,
+    "deposited_model_count": 1,
+    "deposited_modeled_polymer_monomer_count": 102,
+    "deposited_nonpolymer_entity_instance_count": 2,
+    "deposited_polymer_entity_instance_count": 4,
+    "deposited_polymer_monomer_count": 102,
+    "deposited_solvent_atom_count": 350,
+    "deposited_unmodeled_polymer_monomer_count": 0,
+    "disulfide_bond_count": 6,
+    "entity_count": 4,
+    "experimental_method": "X-ray",
+    "experimental_method_count": 1,
+    "inter_mol_covalent_bond_count": 0,
+    "inter_mol_metalic_bond_count": 7,
+    "molecular_weight": 11.71,
+    "na_polymer_entity_types": "Other",
+    "nonpolymer_bound_components": [
+      "ZN"
+    ],
+    "nonpolymer_entity_count": 1,
+    "nonpolymer_molecular_weight_maximum": 0.07,
+    "nonpolymer_molecular_weight_minimum": 0.07,
+    "polymer_composition": "heteromeric protein",
+    "polymer_entity_count": 2,
+    "polymer_entity_count_DNA": 0,
+    "polymer_entity_count_RNA": 0,
+    "polymer_entity_count_nucleic_acid": 0,
+    "polymer_entity_count_nucleic_acid_hybrid": 0,
+    "polymer_entity_count_protein": 2,
+    "polymer_entity_taxonomy_count": 2,
+    "polymer_molecular_weight_maximum": 3.4,
+    "polymer_molecular_weight_minimum": 2.38,
+    "polymer_monomer_count_maximum": 30,
+    "polymer_monomer_count_minimum": 21,
+    "resolution_combined": [
+      1.5
+    ],
+    "selected_polymer_entity_types": "Protein (only)",
+    "software_programs_combined": [
+      "PROLSQ"
+    ],
+    "solvent_entity_count": 1,
+    "structure_determination_methodology": "experimental",
+    "structure_determination_methodology_priority": 10,
+    "diffrn_resolution_high": {
+      "provenance_source": "From refinement resolution cutoff",
+      "value": 1.5
+    }
+  },
+  "rcsb_primary_citation": {
+    "country": "UK",
+    "id": "primary",
+    "journal_abbrev": "Philos.Trans.R.Soc.London,Ser.B",
+    "journal_id_ASTM": "PTRBAE",
+    "journal_id_CSD": "0441",
+    "journal_id_ISSN": "0080-4622",
+    "journal_volume": "319",
+    "page_first": "369",
+    "page_last": "456",
+    "pdbx_database_id_PubMed": 2905485,
+    "rcsb_ORCID_identifiers": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+    ],
+    "rcsb_authors": [
+      "Baker, E.N.",
+      "Blundell, T.L.",
+      "Cutfield, J.F.",
+      "Cutfield, S.M.",
+      "Dodson, E.J.",
+      "Dodson, G.G.",
+      "Hodgkin, D.M.",
+      "Hubbard, R.E.",
+      "Isaacs, N.W.",
+      "Reynolds, C.D.",
+      "Sakabe, K.",
+      "Sakabe, N.",
+      "Vijayan, N.M."
+    ],
+    "rcsb_journal_abbrev": "Philos Trans R Soc London,ser B",
+    "title": "The structure of 2Zn pig insulin crystals at 1.5 A resolution.",
+    "year": 1988
+  },
+  "refine": [
+    {
+      "details": "SOME RESIDUES ARE APPARENTLY DISORDERED BUT DIFFICULT TO\nDESCRIBE IN TERMS OF ATOMIC POSITIONS.  ALA B 30 IS ONE OF\nTHESE RESIDUES.\n\nTHE FOLLOWING RESIDUES ARE DISORDERED - GLN B 4, VAL B 12, \nGLU B 21, ARG B 22, ARG D 22, LYS D 29.",
+      "ls_R_factor_obs": 0.153,
+      "ls_d_res_high": 1.5,
+      "pdbx_diffrn_id": [
+        "1"
+      ],
+      "pdbx_refine_id": "X-RAY DIFFRACTION"
+    }
+  ],
+  "refine_hist": [
+    {
+      "cycle_id": "LAST",
+      "d_res_high": 1.5,
+      "number_atoms_solvent": 350,
+      "number_atoms_total": 1158,
+      "pdbx_number_atoms_ligand": 2,
+      "pdbx_number_atoms_nucleic_acid": 0,
+      "pdbx_number_atoms_protein": 806,
+      "pdbx_refine_id": "X-RAY DIFFRACTION"
+    }
+  ],
+  "refine_ls_restr": [
+    {
+      "dev_ideal": 0.005,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_bond_d"
+    },
+    {
+      "dev_ideal": 5.9,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_angle_deg"
+    }
+  ],
+  "software": [
+    {
+      "classification": "refinement",
+      "name": "PROLSQ",
+      "pdbx_ordinal": 1
+    }
+  ],
+  "struct": {
+    "title": "THE STRUCTURE OF 2ZN PIG INSULIN CRYSTALS AT 1.5 ANGSTROMS RESOLUTION"
+  },
+  "struct_keywords": {
+    "pdbx_keywords": "HORMONE",
+    "text": "HORMONE"
+  },
+  "symmetry": {
+    "Int_Tables_number": 146,
+    "space_group_name_H_M": "H 3"
+  },
+  "rcsb_id": "4INS"
+}

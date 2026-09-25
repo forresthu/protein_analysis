@@ -1,0 +1,519 @@
+{
+  "audit_author": [
+    {
+      "name": "Watson, H.C.",
+      "pdbx_ordinal": 1
+    },
+    {
+      "name": "Kendrew, J.C.",
+      "pdbx_ordinal": 2
+    }
+  ],
+  "cell": {
+    "Z_PDB": 2,
+    "angle_alpha": 90.0,
+    "angle_beta": 106.0,
+    "angle_gamma": 90.0,
+    "length_a": 64.5,
+    "length_b": 30.9,
+    "length_c": 34.7
+  },
+  "citation": [
+    {
+      "country": "US",
+      "id": "primary",
+      "journal_abbrev": "Prog.Stereochem.",
+      "journal_id_ASTM": "PRSTAP",
+      "journal_id_CSD": "0419",
+      "journal_id_ISSN": "0079-6808",
+      "journal_volume": "4",
+      "page_first": "299",
+      "pdbx_database_id_PubMed": -1,
+      "rcsb_authors": [
+        "Watson, H.C."
+      ],
+      "rcsb_is_primary": "Y",
+      "rcsb_journal_abbrev": "Prog Stereochem",
+      "title": "The Stereochemistry of the Protein Myoglobin",
+      "year": 1969
+    },
+    {
+      "country": "SW",
+      "id": "1",
+      "journal_abbrev": "Prix Nobel",
+      "journal_id_ASTM": "PRIXAL",
+      "journal_id_CSD": "0945",
+      "journal_id_ISSN": "0546-8175",
+      "page_first": "103",
+      "rcsb_authors": [
+        "Kendrew, J.C."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Prix Nobel",
+      "title": "Myoglobin and the Structure of Proteins (Nobel Lecture, December 11, 1962)",
+      "year": 1963
+    },
+    {
+      "book_publisher": "Tracor Jitco Inc.,Rockville,Md.",
+      "id": "2",
+      "journal_abbrev": "Atlas of Macromolecular Structure on Microfiche",
+      "journal_id_CSD": "0434",
+      "journal_id_ISSN": "0-917934-01-6",
+      "page_first": "125",
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Atlas Of Macromolecular Structure On Microfiche",
+      "year": 1976
+    },
+    {
+      "book_publisher": "National Biomedical Research Foundation, Silver Spring,Md.",
+      "id": "3",
+      "journal_abbrev": "Atlas of Protein Sequence and Structure (Data Section)",
+      "journal_id_CSD": "0435",
+      "journal_id_ISSN": "0-912466-02-2",
+      "journal_volume": "5",
+      "page_first": "84",
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Atlas Of Protein Sequence And Structure (data Section)",
+      "year": 1972
+    }
+  ],
+  "database_2": [
+    {
+      "database_code": "1MBN",
+      "database_id": "PDB",
+      "pdbx_DOI": "10.2210/pdb1mbn/pdb",
+      "pdbx_database_accession": "pdb_00001mbn"
+    },
+    {
+      "database_code": "D_1000174928",
+      "database_id": "WWPDB"
+    }
+  ],
+  "diffrn": [
+    {
+      "crystal_id": "1",
+      "id": "1"
+    }
+  ],
+  "diffrn_radiation": [
+    {
+      "diffrn_id": "1",
+      "pdbx_scattering_type": "x-ray",
+      "wavelength_id": "1"
+    }
+  ],
+  "entry": {
+    "id": "1MBN"
+  },
+  "exptl": [
+    {
+      "method": "X-RAY DIFFRACTION"
+    }
+  ],
+  "exptl_crystal": [
+    {
+      "density_Matthews": 1.93,
+      "density_percent_sol": 36.21,
+      "id": "1"
+    }
+  ],
+  "pdbx_audit_revision_category": [
+    {
+      "category": "pdbx_database_status",
+      "data_content_type": "Structure model",
+      "ordinal": 1,
+      "revision_ordinal": 4
+    },
+    {
+      "category": "struct_conf",
+      "data_content_type": "Structure model",
+      "ordinal": 2,
+      "revision_ordinal": 4
+    },
+    {
+      "category": "struct_conf_type",
+      "data_content_type": "Structure model",
+      "ordinal": 3,
+      "revision_ordinal": 4
+    },
+    {
+      "category": "chem_comp_atom",
+      "data_content_type": "Structure model",
+      "ordinal": 4,
+      "revision_ordinal": 5
+    },
+    {
+      "category": "chem_comp_bond",
+      "data_content_type": "Structure model",
+      "ordinal": 5,
+      "revision_ordinal": 5
+    },
+    {
+      "category": "database_2",
+      "data_content_type": "Structure model",
+      "ordinal": 6,
+      "revision_ordinal": 5
+    },
+    {
+      "category": "struct_site",
+      "data_content_type": "Structure model",
+      "ordinal": 7,
+      "revision_ordinal": 5
+    },
+    {
+      "category": "database_PDB_caveat",
+      "data_content_type": "Structure model",
+      "ordinal": 8,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "pdbx_entry_details",
+      "data_content_type": "Structure model",
+      "ordinal": 9,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "pdbx_modification_feature",
+      "data_content_type": "Structure model",
+      "ordinal": 10,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "pdbx_nonpoly_atom_coordination",
+      "data_content_type": "Structure model",
+      "ordinal": 11,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "pdbx_nonpoly_atom_coordination_sphere",
+      "data_content_type": "Structure model",
+      "ordinal": 12,
+      "revision_ordinal": 6
+    },
+    {
+      "category": "pdbx_nonpoly_atom_coordination_sphere_order",
+      "data_content_type": "Structure model",
+      "ordinal": 13,
+      "revision_ordinal": 6
+    }
+  ],
+  "pdbx_audit_revision_details": [
+    {
+      "data_content_type": "Structure model",
+      "ordinal": 1,
+      "provider": "repository",
+      "revision_ordinal": 1,
+      "type": "Initial release"
+    },
+    {
+      "data_content_type": "Structure model",
+      "description": "Metalloprotein remediation",
+      "ordinal": 2,
+      "provider": "repository",
+      "revision_ordinal": 6,
+      "type": "Remediation"
+    }
+  ],
+  "pdbx_audit_revision_group": [
+    {
+      "data_content_type": "Structure model",
+      "group": "Version format compliance",
+      "ordinal": 1,
+      "revision_ordinal": 2
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Version format compliance",
+      "ordinal": 2,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Derived calculations",
+      "ordinal": 3,
+      "revision_ordinal": 4
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Other",
+      "ordinal": 4,
+      "revision_ordinal": 4
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Data collection",
+      "ordinal": 5,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Database references",
+      "ordinal": 6,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Derived calculations",
+      "ordinal": 7,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Advisory",
+      "ordinal": 8,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Derived calculations",
+      "ordinal": 9,
+      "revision_ordinal": 6
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Structure summary",
+      "ordinal": 10,
+      "revision_ordinal": 6
+    }
+  ],
+  "pdbx_audit_revision_history": [
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 0,
+      "ordinal": 1,
+      "revision_date": "1976-05-19T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 1,
+      "ordinal": 2,
+      "revision_date": "2008-03-03T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 2,
+      "ordinal": 3,
+      "revision_date": "2011-07-13T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 3,
+      "ordinal": 4,
+      "revision_date": "2017-11-29T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 4,
+      "ordinal": 5,
+      "revision_date": "2024-02-14T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 5,
+      "ordinal": 6,
+      "revision_date": "2026-08-12T00:00:00.000+00:00"
+    }
+  ],
+  "pdbx_audit_revision_item": [
+    {
+      "data_content_type": "Structure model",
+      "item": "_pdbx_database_status.process_site",
+      "ordinal": 1,
+      "revision_ordinal": 4
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_database_2.pdbx_DOI",
+      "ordinal": 2,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_database_2.pdbx_database_accession",
+      "ordinal": 3,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_site.pdbx_auth_asym_id",
+      "ordinal": 4,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_site.pdbx_auth_comp_id",
+      "ordinal": 5,
+      "revision_ordinal": 5
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_struct_site.pdbx_auth_seq_id",
+      "ordinal": 6,
+      "revision_ordinal": 5
+    }
+  ],
+  "pdbx_database_status": {
+    "pdb_format_compatible": "Y",
+    "process_site": "BNL",
+    "recvd_initial_deposition_date": "1973-04-05T00:00:00.000+00:00",
+    "status_code": "REL"
+  },
+  "pdbx_vrpt_summary": {
+    "attempted_validation_steps": "molprobity,validation-pack,mogul,buster-report,validation_schema,percentiles,writexml,writecif,writepdf",
+    "ligands_for_buster_report": "Y",
+    "report_creation_date": "2026-03-08T08:16:00.000+00:00"
+  },
+  "pdbx_vrpt_summary_geometry": [
+    {
+      "angles_RMSZ": 3.82,
+      "bonds_RMSZ": 3.14,
+      "clashscore": 56.08,
+      "num_H_reduce": 1272,
+      "num_angles_RMSZ": 1671,
+      "num_bonds_RMSZ": 1244,
+      "percent_ramachandran_outliers": 3.31,
+      "percent_rotamer_outliers": 20.0
+    }
+  ],
+  "rcsb_accession_info": {
+    "deposit_date": "1973-04-05T00:00:00.000+00:00",
+    "has_released_experimental_data": "N",
+    "initial_release_date": "1976-05-19T00:00:00.000+00:00",
+    "major_revision": 1,
+    "minor_revision": 5,
+    "revision_date": "2026-08-12T00:00:00.000+00:00",
+    "status_code": "REL"
+  },
+  "rcsb_entry_container_identifiers": {
+    "assembly_ids": [
+      "1"
+    ],
+    "entity_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "entry_id": "1MBN",
+    "model_ids": [
+      1
+    ],
+    "non_polymer_entity_ids": [
+      "2",
+      "3"
+    ],
+    "polymer_entity_ids": [
+      "1"
+    ],
+    "pubmed_id": -1,
+    "rcsb_id": "1MBN"
+  },
+  "rcsb_entry_info": {
+    "assembly_count": 1,
+    "branched_entity_count": 0,
+    "cis_peptide_count": 0,
+    "deposited_atom_count": 1260,
+    "deposited_deuterated_water_count": 0,
+    "deposited_hydrogen_atom_count": 0,
+    "deposited_model_count": 1,
+    "deposited_modeled_polymer_monomer_count": 153,
+    "deposited_nonpolymer_entity_instance_count": 2,
+    "deposited_polymer_entity_instance_count": 1,
+    "deposited_polymer_monomer_count": 153,
+    "deposited_solvent_atom_count": 0,
+    "deposited_unmodeled_polymer_monomer_count": 0,
+    "disulfide_bond_count": 0,
+    "entity_count": 3,
+    "experimental_method": "X-ray",
+    "experimental_method_count": 1,
+    "inter_mol_covalent_bond_count": 0,
+    "inter_mol_metalic_bond_count": 2,
+    "molecular_weight": 17.87,
+    "na_polymer_entity_types": "Other",
+    "nonpolymer_bound_components": [
+      "HEM",
+      "OH"
+    ],
+    "nonpolymer_entity_count": 2,
+    "nonpolymer_molecular_weight_maximum": 0.62,
+    "nonpolymer_molecular_weight_minimum": 0.02,
+    "polymer_composition": "homomeric protein",
+    "polymer_entity_count": 1,
+    "polymer_entity_count_DNA": 0,
+    "polymer_entity_count_RNA": 0,
+    "polymer_entity_count_nucleic_acid": 0,
+    "polymer_entity_count_nucleic_acid_hybrid": 0,
+    "polymer_entity_count_protein": 1,
+    "polymer_entity_taxonomy_count": 1,
+    "polymer_molecular_weight_maximum": 17.23,
+    "polymer_molecular_weight_minimum": 17.23,
+    "polymer_monomer_count_maximum": 153,
+    "polymer_monomer_count_minimum": 153,
+    "resolution_combined": [
+      2.0
+    ],
+    "selected_polymer_entity_types": "Protein (only)",
+    "solvent_entity_count": 0,
+    "structure_determination_methodology": "experimental",
+    "structure_determination_methodology_priority": 10,
+    "diffrn_resolution_high": {
+      "provenance_source": "From refinement resolution cutoff",
+      "value": 2.0
+    }
+  },
+  "rcsb_primary_citation": {
+    "country": "US",
+    "id": "primary",
+    "journal_abbrev": "Prog.Stereochem.",
+    "journal_id_ASTM": "PRSTAP",
+    "journal_id_CSD": "0419",
+    "journal_id_ISSN": "0079-6808",
+    "journal_volume": "4",
+    "page_first": "299",
+    "pdbx_database_id_PubMed": -1,
+    "rcsb_authors": [
+      "Watson, H.C."
+    ],
+    "rcsb_journal_abbrev": "Prog Stereochem",
+    "title": "The Stereochemistry of the Protein Myoglobin",
+    "year": 1969
+  },
+  "refine": [
+    {
+      "ls_d_res_high": 2.0,
+      "pdbx_diffrn_id": [
+        "1"
+      ],
+      "pdbx_refine_id": "X-RAY DIFFRACTION"
+    }
+  ],
+  "refine_hist": [
+    {
+      "cycle_id": "LAST",
+      "d_res_high": 2.0,
+      "number_atoms_solvent": 0,
+      "number_atoms_total": 1260,
+      "pdbx_number_atoms_ligand": 44,
+      "pdbx_number_atoms_nucleic_acid": 0,
+      "pdbx_number_atoms_protein": 1216,
+      "pdbx_refine_id": "X-RAY DIFFRACTION"
+    }
+  ],
+  "struct": {
+    "title": "The stereochemistry of the protein myoglobin"
+  },
+  "struct_keywords": {
+    "pdbx_keywords": "OXYGEN STORAGE",
+    "text": "OXYGEN STORAGE"
+  },
+  "symmetry": {
+    "Int_Tables_number": 4,
+    "space_group_name_H_M": "P 1 21 1"
+  },
+  "rcsb_id": "1MBN"
+}
